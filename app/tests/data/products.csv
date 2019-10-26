@@ -1,0 +1,1001 @@
+id,product_name,price
+1,Pectin,$31.31
+2,Bread - Multigrain,$128.97
+3,Muffin - Mix - Bran And Maple 15l,$16.56
+4,"Syrup - Monin, Amaretta",$19.96
+5,Bread - Multigrain,$316.27
+6,Kumquat,$137.18
+7,Toothpick Frilled,$170.15
+8,Lettuce - Boston Bib,$31.03
+9,"Pasta - Gnocchi, Potato",$19.21
+10,Muffin - Zero Transfat,$164.94
+11,"Wine - Red, Antinori Santa",$24.54
+12,Country Roll,$331.90
+13,Quinoa,$450.24
+14,"Vodka - Hot, Lnferno",$335.46
+15,Coffee - Irish Cream,$376.67
+16,Celery,$449.42
+17,Pepper - Pablano,$391.12
+18,Cake - Mini Cheesecake,$182.40
+19,Vodka - Smirnoff,$374.90
+20,Worcestershire Sauce,$429.53
+21,Dates,$307.31
+22,Nescafe - Frothy French Vanilla,$339.49
+23,Cabbage - Green,$155.24
+24,Table Cloth 91x91 Colour,$210.74
+25,Cheese - Le Cru Du Clocher,$84.12
+26,Shrimp - Black Tiger 13/15,$306.30
+27,Flavouring Vanilla Artificial,$219.91
+28,Russian Prince,$385.47
+29,Sauce - Sesame Thai Dressing,$492.07
+30,Egg - Salad Premix,$184.76
+31,"Shrimp - Baby, Cold Water",$55.86
+32,Daikon Radish,$52.35
+33,Jack Daniels,$486.00
+34,"Pork - Chop, Frenched",$417.64
+35,Alize Red Passion,$68.92
+36,Artichoke - Fresh,$99.95
+37,Salmon - Fillets,$479.00
+38,Cilantro / Coriander - Fresh,$356.91
+39,"Cheese - Boursin, Garlic / Herbs",$328.58
+40,Pepsi - 600ml,$202.93
+41,Swiss Chard,$460.19
+42,Beer - Pilsner Urquell,$169.69
+43,Beer - Upper Canada Lager,$486.74
+44,"Pepper - Red, Finger Hot",$247.21
+45,Cookies - Englishbay Oatmeal,$346.98
+46,Juice - Ocean Spray Kiwi,$41.96
+47,Kale - Red,$49.40
+48,Kellogs Cereal In A Cup,$366.24
+49,Aspic - Light,$320.37
+50,Vinegar - White,$94.39
+51,"Wine - White, Riesling, Henry Of",$398.94
+52,Nantucket - 518ml,$32.78
+53,Pectin,$24.72
+54,Nestea - Iced Tea,$292.20
+55,"Beef - Bones, Marrow",$413.42
+56,"Veal - Shank, Pieces",$394.39
+57,Puree - Blackcurrant,$229.46
+58,Fennel,$321.71
+59,Wine - Chateauneuf Du Pape,$20.12
+60,"Fish - Scallops, Cold Smoked",$294.78
+61,Versatainer Nc - 8288,$45.97
+62,Sugar - Individual Portions,$437.39
+63,Tomato Puree,$426.30
+64,"Quail - Eggs, Fresh",$28.15
+65,Bagel - Sesame Seed Presliced,$492.93
+66,Glass Clear 7 Oz Xl,$164.22
+67,Chocolate Bar - Reese Pieces,$94.51
+68,Rabbit - Saddles,$78.19
+69,"Jam - Marmalade, Orange",$429.32
+70,Plasticknivesblack,$394.63
+71,Garbage Bags - Clear,$62.15
+72,Toamtoes 6x7 Select,$300.11
+73,Wine - Fino Tio Pepe Gonzalez,$448.60
+74,Marzipan 50/50,$465.13
+75,"Tendrils - Baby Pea, Organic",$250.81
+76,Towel Multifold,$292.13
+77,"Pail - 15l White, With Handle",$162.60
+78,"Vodka - Hot, Lnferno",$297.58
+79,Pasta - Agnolotti - Butternut,$117.68
+80,Pork - Liver,$68.29
+81,Coffee - Dark Roast,$399.02
+82,Wasabi Powder,$360.72
+83,"Pail - 15l White, With Handle",$397.30
+84,Wine - Pinot Noir Latour,$231.80
+85,Pork - Hock And Feet Attached,$148.25
+86,Trueblue - Blueberry Cranberry,$327.43
+87,Cumin - Whole,$54.42
+88,Wine - Alsace Gewurztraminer,$152.81
+89,Steampan - Half Size Shallow,$145.80
+90,Peach - Halves,$497.88
+91,Cinnamon Buns Sticky,$170.33
+92,Pail For Lid 1537,$36.99
+93,"Crab - Dungeness, Whole",$192.30
+94,Lettuce - Green Leaf,$259.81
+95,Port - 74 Brights,$156.73
+96,Cookie Dough - Chocolate Chip,$124.09
+97,Seaweed Green Sheets,$155.10
+98,Kahlua,$220.35
+99,Nut - Macadamia,$17.85
+100,Cabbage - Nappa,$374.99
+101,Cheese - Wine,$300.58
+102,Pineapple - Golden,$288.43
+103,Lettuce - Treviso,$440.13
+104,Coffee Decaf Colombian,$149.03
+105,Cheese - Ermite Bleu,$379.69
+106,Slt - Individual Portions,$132.34
+107,"Bread - Roll, Whole Wheat",$298.37
+108,Yeast Dry - Fermipan,$131.29
+109,True - Vue Containers,$345.98
+110,Juice - Orange 1.89l,$473.85
+111,Daves Island Stinger,$25.33
+112,Glass Clear 7 Oz Xl,$152.39
+113,Wine La Vielle Ferme Cote Du,$351.01
+114,Creme De Banane - Marie,$416.54
+115,Sambuca - Opal Nera,$188.18
+116,Cakes Assorted,$215.14
+117,Energy Drink Red Bull,$361.12
+118,"Chocolate - Milk, Callets",$179.05
+119,The Pop Shoppe - Black Cherry,$87.13
+120,Iced Tea Concentrate,$126.57
+121,Veal - Striploin,$405.61
+122,Lamb Rack Frenched Australian,$361.19
+123,"Wine - White, Mosel Gold",$311.69
+124,Lamb - Shoulder,$246.37
+125,Artichoke - Fresh,$14.39
+126,Wine - Toasted Head,$320.75
+127,Cookie - Oatmeal,$198.04
+128,Pepper - Cayenne,$205.59
+129,"Juice - Pineapple, 341 Ml",$378.21
+130,Tumeric,$375.75
+131,Compound - Pear,$348.20
+132,Clementine,$295.93
+133,Walkers Special Old Whiskey,$401.44
+134,Tea - Lemon Scented,$291.93
+135,Crackers - Soda / Saltins,$116.20
+136,Curry Powder,$306.82
+137,Liqueur - Melon,$110.25
+138,Cheese - Colby,$466.25
+139,Wine - Vineland Estate Semi - Dry,$363.10
+140,Muffin - Mix - Mango Sour Cherry,$17.14
+141,Venison - Racks Frenched,$399.86
+142,Apple - Royal Gala,$338.74
+143,Cleaner - Pine Sol,$265.56
+144,Squid - U 5,$320.58
+145,Pineapple - Golden,$410.92
+146,Cucumber - Pickling Ontario,$363.33
+147,Creme De Menthe Green,$179.87
+148,"Beets - Candy Cane, Organic",$362.51
+149,Wine - Puligny Montrachet A.,$374.61
+150,Bag - Clear 7 Lb,$329.69
+151,Rootbeer,$102.18
+152,Straw - Regular,$37.73
+153,"Nestea - Ice Tea, Diet",$191.43
+154,"Mushroom - Enoki, Fresh",$65.07
+155,Appetizer - Veg Assortment,$92.47
+156,Tomato - Plum With Basil,$255.48
+157,Fork - Plastic,$79.52
+158,"Flour - Bran, Red",$141.44
+159,Veal - Heart,$480.75
+160,Cheese - Brick With Onion,$412.90
+161,Ketchup - Tomato,$415.78
+162,Coffee Guatemala Dark,$50.53
+163,Island Oasis - Strawberry,$164.84
+164,Wine - Spumante Bambino White,$234.87
+165,Eggplant Oriental,$114.03
+166,Soup Campbells - Tomato Bisque,$160.87
+167,Fruit Salad Deluxe,$167.50
+168,Wine - Zinfandel California 2002,$314.61
+169,"Coconut - Creamed, Pure",$469.59
+170,"Beef - Ox Tongue, Pickled",$40.56
+171,"Veal - Insides, Grains",$261.13
+172,Juice - Lagoon Mango,$415.89
+173,Longos - Chicken Caeser Salad,$137.03
+174,Wine - Domaine Boyar Royal,$418.75
+175,Pork - Bones,$137.29
+176,Gloves - Goldtouch Disposable,$49.87
+177,The Pop Shoppe - Root Beer,$316.82
+178,Pastry - Banana Muffin - Mini,$195.64
+179,Wine - Coteaux Du Tricastin Ac,$218.31
+180,Tomato - Tricolor Cherry,$16.13
+181,Yams,$327.50
+182,Yogurt - Assorted Pack,$316.98
+183,Pastry - Choclate Baked,$260.04
+184,Hummus - Spread,$496.66
+185,Bread - Sour Sticks With Onion,$408.74
+186,Wine - Sogrape Mateus Rose,$260.28
+187,Oil - Pumpkinseed,$412.32
+188,Blueberries - Frozen,$227.11
+189,Vinegar - White,$361.35
+190,Muffin Mix - Lemon Cranberry,$6.32
+191,Oil - Sesame,$78.29
+192,Sauce - Marinara,$305.96
+193,"Bread - White, Unsliced",$460.96
+194,"Nut - Hazelnut, Ground, Natural",$307.94
+195,Cheese - Gouda Smoked,$479.89
+196,Spic And Span All Purpose,$83.32
+197,Corn Syrup,$187.78
+198,"Wine - Red, Gamay Noir",$199.79
+199,Wine - Alsace Gewurztraminer,$164.76
+200,Energy Drink - Franks Original,$132.64
+201,Petite Baguette,$20.55
+202,Flour - Semolina,$57.03
+203,Cake - Bande Of Fruit,$339.85
+204,Sorrel - Fresh,$274.13
+205,Salami - Genova,$409.48
+206,Sambuca Cream,$320.22
+207,Wine - Chablis 2003 Champs,$348.56
+208,Tomato - Plum With Basil,$364.91
+209,Flour - Rye,$203.33
+210,Muffin Mix - Chocolate Chip,$346.60
+211,Broom Handle,$173.24
+212,Huck White Towels,$136.78
+213,Salmon Steak - Cohoe 6 Oz,$377.59
+214,Foil Wrap,$24.02
+215,Vaccum Bag 10x13,$159.98
+216,Olives - Nicoise,$176.23
+217,Tart - Raisin And Pecan,$436.71
+218,Salmon Steak - Cohoe 6 Oz,$161.01
+219,Jameson Irish Whiskey,$124.72
+220,Coffee - Irish Cream,$455.15
+221,Veal - Liver,$78.81
+222,Dill Weed - Fresh,$343.27
+223,"Ranchero - Primerba, Paste",$106.71
+224,Leeks - Large,$16.90
+225,Mints - Striped Red,$229.74
+226,Alize Red Passion,$15.75
+227,"Mushroom - Chantrelle, Fresh",$330.11
+228,Pernod,$18.77
+229,Fruit Salad Deluxe,$188.88
+230,Spice - Greek 1 Step,$225.25
+231,Veal - Heart,$381.90
+232,Bread - Kimel Stick Poly,$261.84
+233,Tia Maria,$260.85
+234,Squash - Butternut,$65.44
+235,Nougat - Paste / Cream,$497.10
+236,Horseradish - Prepared,$319.98
+237,Cheese - Comte,$79.68
+238,Extract - Lemon,$68.69
+239,Cheese Cloth,$457.57
+240,Soup - Boston Clam Chowder,$198.75
+241,Ham - Black Forest,$72.81
+242,Wine - Charddonnay Errazuriz,$346.48
+243,Sterno - Chafing Dish Fuel,$310.19
+244,Squid U5 - Thailand,$280.71
+245,"Wine - White, Pelee Island",$228.75
+246,Appetizer - Chicken Satay,$464.52
+247,Vol Au Vents,$45.68
+248,"Doilies - 7, Paper",$165.83
+249,Muffin Mix - Raisin Bran,$190.89
+250,"Soup - French Onion, Dry",$101.29
+251,Emulsifier,$301.92
+252,"Club Soda - Schweppes, 355 Ml",$16.22
+253,Bacardi Limon,$224.93
+254,Pate - Cognac,$198.87
+255,"Brownies - Two Bite, Chocolate",$42.21
+256,Wakami Seaweed,$341.95
+257,Jolt Cola - Red Eye,$433.65
+258,Glove - Cutting,$88.76
+259,Beef Wellington,$391.46
+260,"Oil - Truffle, Black",$408.55
+261,Eggplant - Baby,$189.50
+262,"Soup - Campbells, Chix Gumbo",$51.89
+263,Bread - Hot Dog Buns,$313.72
+264,Cheese - Cheddar With Claret,$104.35
+265,Bagel - Ched Chs Presliced,$496.95
+266,Vinegar - Champagne,$200.49
+267,"Pasta - Orzo, Dry",$475.22
+268,Higashimaru Usukuchi Soy,$12.66
+269,Wine - Lamancha Do Crianza,$402.09
+270,Fenngreek Seed,$209.25
+271,Water - Spring 1.5lit,$63.31
+272,Veal - Slab Bacon,$443.91
+273,"Pasta - Cannelloni, Sheets, Fresh",$345.32
+274,Vodka - Moskovskaya,$386.36
+275,"Juice - Grapefruit, 341 Ml",$277.07
+276,Phyllo Dough,$158.36
+277,Syrup - Monin - Granny Smith,$89.49
+278,Sauce - Sesame Thai Dressing,$31.93
+279,Cheese - Gorgonzola,$465.08
+280,Ginsing - Fresh,$387.80
+281,Bread - 10 Grain Parisian,$161.16
+282,Flower - Carnations,$283.48
+283,Lobster - Live,$491.26
+284,Tomatoes - Cherry,$415.99
+285,Lamb Shoulder Boneless Nz,$59.23
+286,Lychee - Canned,$241.45
+287,Wanton Wrap,$29.20
+288,"Soup - Campbells, Chix Gumbo",$66.42
+289,Dikon,$473.42
+290,Lentils - Green Le Puy,$14.49
+291,"Nut - Chestnuts, Whole",$237.02
+292,Peppercorns - Green,$128.22
+293,Peach - Halves,$58.86
+294,"Turkey - Breast, Double",$203.82
+295,Butter - Salted,$279.78
+296,Wine - Balbach Riverside,$481.52
+297,Durian Fruit,$386.93
+298,Capers - Ox Eye Daisy,$97.31
+299,"Pasta - Fusili, Dry",$385.41
+300,Rice Paper,$76.46
+301,Quinoa,$250.41
+302,Radish - Pickled,$115.94
+303,Duck - Legs,$45.97
+304,Beans - French,$172.54
+305,Bread - Raisin,$413.95
+306,Broom Handle,$450.41
+307,Mint - Fresh,$314.19
+308,Wine - Gato Negro Cabernet,$474.00
+309,Cookie Dough - Peanut Butter,$185.06
+310,Compound - Rum,$143.02
+311,Fruit Mix - Light,$153.71
+312,Tomato - Green,$442.80
+313,Bagel - Whole White Sesame,$254.37
+314,"Beans - Turtle, Black, Dry",$74.03
+315,Wooden Mop Handle,$379.55
+316,Lid Tray - 12in Dome,$431.08
+317,Waffle Stix,$268.50
+318,Wine - Coteaux Du Tricastin Ac,$141.65
+319,"Artichokes - Knobless, White",$103.23
+320,Nutmeg - Ground,$44.00
+321,Tea - Camomele,$9.74
+322,Dooleys Toffee,$29.07
+323,Swordfish Loin Portions,$389.50
+324,Wine - Zonnebloem Pinotage,$217.52
+325,Chef Hat 25cm,$202.26
+326,"Flour - Buckwheat, Dark",$486.89
+327,Pate - Cognac,$41.63
+328,Squash - Guords,$197.73
+329,"Lentils - Green, Dry",$47.47
+330,Spinach - Packaged,$183.74
+331,Corn Shoots,$197.57
+332,Soup - Campbells,$207.98
+333,"Mushroom - Morels, Dry",$63.96
+334,Appetizer - Smoked Salmon / Dill,$319.51
+335,"Beef - Rouladin, Sliced",$472.64
+336,Tea - Decaf Lipton,$141.22
+337,Tea - Herbal I Love Lemon,$64.20
+338,"Glass - Wine, Plastic, Clear 5 Oz",$396.35
+339,Filter - Coffee,$154.75
+340,Macaroons - Two Bite Choc,$78.59
+341,Oven Mitts 17 Inch,$224.29
+342,Pate - Cognac,$199.65
+343,Milk 2% 500 Ml,$24.19
+344,Bread Crumbs - Panko,$13.62
+345,"Juice - Clam, 46 Oz",$443.69
+346,Apricots Fresh,$51.97
+347,Wine - Jafflin Bourgongone,$26.06
+348,Energy Drink Red Bull,$381.55
+349,"Soup - Knorr, French Onion",$106.94
+350,Muffin - Blueberry Individual,$10.93
+351,Cookie Double Choco,$261.67
+352,Okra,$12.53
+353,Cod - Fillets,$306.91
+354,Appetizer - Veg Assortment,$475.88
+355,Yams,$324.55
+356,"Doilies - 7, Paper",$59.30
+357,Chicken - Base,$76.38
+358,Sauce - Thousand Island,$28.30
+359,Artichoke - Fresh,$335.44
+360,Muffin Batt - Carrot Spice,$484.29
+361,Wine - Vineland Estate Semi - Dry,$67.39
+362,Wine - Guy Sage Touraine,$497.41
+363,Sultanas,$223.24
+364,Chicken Thigh - Bone Out,$339.12
+365,Coffee Decaf Colombian,$62.84
+366,Sauce - Balsamic Viniagrette,$11.69
+367,Lobster - Cooked,$159.02
+368,Peas Snow,$195.66
+369,Lamb Tenderloin Nz Fr,$419.42
+370,Wine - Chenin Blanc K.w.v.,$316.03
+371,Onions - Green,$48.97
+372,Lettuce - Romaine,$445.90
+373,Parasol Pick Stir Stick,$101.35
+374,Mix Pina Colada,$304.46
+375,Onions - Green,$223.24
+376,Flour - All Purpose,$346.70
+377,Bread - Kimel Stick Poly,$308.37
+378,Toamtoes 6x7 Select,$332.38
+379,Tarragon - Fresh,$130.67
+380,Lychee - Canned,$431.51
+381,Pears - Bartlett,$401.49
+382,Onions - Red,$214.22
+383,Cheese - Parmesan Grated,$324.77
+384,Buttons,$226.13
+385,Sugar - Brown,$399.82
+386,Sun - Dried Tomatoes,$150.10
+387,Pork - Back Ribs,$352.51
+388,Appetizer - Mushroom Tart,$463.45
+389,English Muffin,$327.48
+390,Water - Perrier,$106.16
+391,Towels - Paper / Kraft,$340.85
+392,Island Oasis - Banana Daiquiri,$59.65
+393,Cookie Chocolate Chip With,$144.99
+394,"Soup - Campbells, Cream Of",$480.25
+395,Eggplant Italian,$498.53
+396,"Lid - High Heat, Super Clear",$181.96
+397,Duck - Legs,$80.31
+398,Whmis Spray Bottle Graduated,$288.34
+399,Kirsch - Schloss,$423.47
+400,Sauce - Oyster,$60.68
+401,"Napkin - Beverge, White 2 - Ply",$241.95
+402,Grapes - Black,$474.62
+403,Pimento - Canned,$154.75
+404,Myers Planters Punch,$464.98
+405,Beef - Inside Round,$118.98
+406,"Cheese - Boursin, Garlic / Herbs",$279.14
+407,Table Cloth 120 Round White,$121.01
+408,Goat - Whole Cut,$358.62
+409,Bread Crumbs - Japanese Style,$28.48
+410,Lobster - Base,$289.98
+411,Figs,$6.30
+412,"Chocolate - Milk, Callets",$492.83
+413,Papadam,$483.28
+414,Bag - Clear 7 Lb,$356.53
+415,Cake - Sheet Strawberry,$211.25
+416,Sprouts - China Rose,$469.48
+417,Wine - Coteaux Du Tricastin Ac,$234.07
+418,Bread - Focaccia Quarter,$307.50
+419,Mudslide,$94.07
+420,Cheese Cheddar Processed,$403.71
+421,Cheese - Camembert,$282.61
+422,"Pork - Back, Long Cut, Boneless",$179.59
+423,Lettuce - Baby Salad Greens,$55.39
+424,Cheese - Brick With Pepper,$24.26
+425,Ham - Cooked Bayonne Tinned,$229.50
+426,Tomato - Tricolor Cherry,$109.57
+427,Lettuce - Curly Endive,$89.91
+428,Pur Value,$85.36
+429,Gatorade - Xfactor Berry,$145.56
+430,"C - Plus, Orange",$190.68
+431,Wine - Chablis J Moreau Et Fils,$314.92
+432,Soup - Base Broth Chix,$115.15
+433,Garlic - Elephant,$324.99
+434,Veal - Osso Bucco,$51.09
+435,Petite Baguette,$61.23
+436,Tea - Camomele,$275.92
+437,"Chocolate - Semi Sweet, Calets",$28.49
+438,Catfish - Fillets,$67.45
+439,Sauce - Alfredo,$226.40
+440,Beer - Moosehead,$287.27
+441,"Pasta - Lasagna, Dry",$438.93
+442,Coffee Cup 16oz Foam,$123.64
+443,"Coke - Classic, 355 Ml",$366.73
+444,Miso Paste White,$338.08
+445,Cake - Cake Sheet Macaroon,$290.62
+446,Pastry - Key Limepoppy Seed Tea,$72.36
+447,Peppercorns - Pink,$268.26
+448,Bread - Ciabatta Buns,$494.80
+449,Wine - Casillero Deldiablo,$283.11
+450,Cheese - Oka,$114.95
+451,Ecolab Silver Fusion,$276.36
+452,Fond - Neutral,$72.57
+453,Chocolate - Chips Compound,$458.68
+454,Wine - Carmenere Casillero Del,$186.83
+455,Pecan Raisin - Tarts,$221.51
+456,Pepper - Green,$306.05
+457,Soup Bowl Clear 8oz92008,$92.35
+458,Pastry - Carrot Muffin - Mini,$130.82
+459,Wine - Cotes Du Rhone,$444.02
+460,Compound - Passion Fruit,$422.81
+461,"Beef - Kindney, Whole",$97.80
+462,Veal - Striploin,$15.73
+463,Cookies - Englishbay Chochip,$345.98
+464,Raisin - Golden,$387.47
+465,Aspic - Amber,$21.74
+466,Onions - Pearl,$486.73
+467,Carrots - Mini Red Organic,$54.05
+468,Gherkin - Sour,$254.61
+469,Halibut - Fletches,$389.80
+470,Peas - Frozen,$138.15
+471,Bread - Raisin,$295.90
+472,Chervil - Fresh,$369.97
+473,Sproutsmustard Cress,$307.95
+474,Ocean Spray - Kiwi Strawberry,$272.19
+475,"Tart Shells - Savory, 4",$265.48
+476,Baking Powder,$258.27
+477,Sauce - Demi Glace,$301.70
+478,Cheese - Brie,$163.24
+479,Vector Energy Bar,$313.51
+480,"Radish - Black, Winter, Organic",$242.63
+481,Onions - Cooking,$87.69
+482,"Beef - Tenderlion, Center Cut",$23.17
+483,Jameson - Irish Whiskey,$314.00
+484,Wine - Malbec Trapiche Reserve,$41.78
+485,"Bread - Multigrain, Loaf",$297.37
+486,Wine - Cotes Du Rhone,$112.39
+487,Beets - Mini Golden,$264.50
+488,Cake - Sheet Strawberry,$414.80
+489,Wine - Hardys Bankside Shiraz,$445.80
+490,"Mushroom - Enoki, Dry",$158.89
+491,Cheese - Cheddar With Claret,$237.80
+492,Basil - Seedlings Cookstown,$98.34
+493,Beef - Top Sirloin - Aaa,$104.82
+494,Sauce - Marinara,$222.32
+495,Turkey Leg With Drum And Thigh,$59.85
+496,"Tortillas - Flour, 12",$69.23
+497,Potatoes - Yukon Gold 5 Oz,$422.17
+498,Ecolab - Solid Fusion,$48.14
+499,Pasta - Ravioli,$450.58
+500,Cucumber - Pickling Ontario,$305.55
+501,Tomatoes,$217.07
+502,"Salmon - Atlantic, Skin On",$452.62
+503,Mushroom - Lg - Cello,$424.89
+504,Crab - Soft Shell,$253.25
+505,Hagen Daza - Dk Choocolate,$140.51
+506,Appetizer - Chicken Satay,$437.44
+507,"Napkin - Beverge, White 2 - Ply",$215.89
+508,Peach - Fresh,$21.42
+509,"Bread - Sticks, Thin, Plain",$167.54
+510,Pork - Smoked Kassler,$335.08
+511,Wine - Pinot Grigio Collavini,$345.48
+512,Longos - Chicken Caeser Salad,$382.30
+513,"Pepper - Black, Whole",$155.60
+514,Mortadella,$24.91
+515,Soup - Campbells Tomato Ravioli,$441.93
+516,Flavouring - Orange,$210.62
+517,"Gin - Gilbeys London, Dry",$178.81
+518,Chambord Royal,$338.20
+519,Oil - Pumpkinseed,$199.00
+520,Beets - Golden,$189.39
+521,Pastry - Banana Muffin - Mini,$402.52
+522,Remy Red Berry Infusion,$70.11
+523,Langers - Cranberry Cocktail,$15.08
+524,"Oranges - Navel, 72",$289.83
+525,Icecream - Dibs,$96.94
+526,Flower - Potmums,$442.02
+527,"Chicken - Thigh, Bone In",$194.76
+528,Steamers White,$483.38
+529,Tea - Mint,$379.20
+530,Salt And Pepper Mix - White,$332.96
+531,"Oil - Truffle, White",$268.17
+532,Cake - French Pear Tart,$311.72
+533,Pepper - Scotch Bonnet,$208.26
+534,Broccoli - Fresh,$341.14
+535,Soup - Campbells - Chicken Noodle,$7.07
+536,Glass - Juice Clear 5oz 55005,$45.74
+537,Fib N9 - Prague Powder,$458.63
+538,Basil - Thai,$485.10
+539,Snapple Raspberry Tea,$184.77
+540,Sour Puss Raspberry,$183.44
+541,Pasta - Angel Hair,$134.54
+542,Lettuce - California Mix,$266.04
+543,Chambord Royal,$259.97
+544,Puree - Mango,$126.13
+545,Oven Mitts - 15 Inch,$64.59
+546,Amarula Cream,$382.28
+547,Rice - Jasmine Sented,$396.88
+548,Parsley - Dried,$376.63
+549,Walkers Special Old Whiskey,$275.01
+550,Tomato Puree,$248.12
+551,Molasses - Fancy,$105.20
+552,Pork - Ground,$6.96
+553,Sambuca Cream,$105.26
+554,"Beets - Candy Cane, Organic",$491.88
+555,"Nut - Walnut, Chopped",$104.88
+556,"Coconut - Shredded, Sweet",$385.57
+557,"Cheese - Cheddar, Medium",$226.78
+558,"Cheese - Cheddar, Mild",$257.50
+559,Ham Black Forest,$449.11
+560,Juice - Lagoon Mango,$180.58
+561,Muffin Mix - Blueberry,$417.82
+562,Bacardi Raspberry,$390.26
+563,Wine - Savigny - Les - Beaune,$411.62
+564,Rice - Aborio,$286.53
+565,Table Cloth 53x53 White,$225.01
+566,Filo Dough,$342.72
+567,Extract - Lemon,$389.13
+568,Lady Fingers,$325.27
+569,Tea - Honey Green Tea,$361.02
+570,Calypso - Strawberry Lemonade,$86.68
+571,Samosa - Veg,$486.90
+572,Butter Sweet,$407.83
+573,"Pepper - Paprika, Hungarian",$373.18
+574,"Pepper - Paprika, Hungarian",$311.14
+575,Table Cloth 90x90 Colour,$252.11
+576,Raisin - Golden,$152.50
+577,Bar - Sweet And Salty Chocolate,$389.00
+578,"Corn - Cream, Canned",$490.76
+579,"Beef - Ground, Extra Lean, Fresh",$434.50
+580,Bread - Corn Muffaletta,$12.84
+581,Filter - Coffee,$283.94
+582,Oil - Safflower,$436.39
+583,Chocolate - Milk,$449.64
+584,Sauce - Plum,$267.88
+585,Sage Ground Wiberg,$206.50
+586,"Yogurt - Peach, 175 Gr",$330.60
+587,Tequila Rose Cream Liquor,$392.32
+588,Pork - Ground,$151.10
+589,"Pork - Loin, Center Cut",$249.08
+590,"Nut - Hazelnut, Ground, Natural",$254.11
+591,Ezy Change Mophandle,$338.63
+592,"Wine - White, Mosel Gold",$61.38
+593,"Turkey - Breast, Double",$480.17
+594,Cake - Cake Sheet Macaroon,$104.18
+595,Grand Marnier,$170.05
+596,Wine - Manischewitz Concord,$241.40
+597,Lettuce - Boston Bib - Organic,$320.10
+598,Versatainer Nc - 888,$449.83
+599,Cheese - Gouda,$397.96
+600,"Lemonade - Strawberry, 591 Ml",$411.53
+601,"Juice - Cranberry, 341 Ml",$31.23
+602,Ham - Proscuitto,$168.10
+603,French Kiss Vanilla,$259.31
+604,Initation Crab Meat,$223.24
+605,"Vinegar - Balsamic, White",$399.62
+606,Bagelers - Cinn / Brown Sugar,$480.60
+607,Phyllo Dough,$69.93
+608,Pate - Cognac,$306.95
+609,"Water - Spring Water, 355 Ml",$368.45
+610,Soup Campbells Mexicali Tortilla,$420.79
+611,Longos - Grilled Chicken With,$43.34
+612,Puff Pastry - Sheets,$200.10
+613,Sorrel - Fresh,$372.77
+614,Pork - Liver,$98.18
+615,Wine - Jackson Triggs Okonagan,$390.92
+616,Cheese - Bakers Cream Cheese,$210.31
+617,Beans - Fine,$381.68
+618,Squid Ink,$323.24
+619,"Spoon - Soup, Plastic",$438.93
+620,"Juice - Orange, Concentrate",$223.91
+621,Lady Fingers,$499.98
+622,Chinese Foods - Thick Noodles,$466.62
+623,Mushroom - Morel Frozen,$125.81
+624,Ham - Cooked,$14.32
+625,Cinnamon Buns Sticky,$72.27
+626,"Wine - Red, Harrow Estates, Cab",$104.91
+627,Island Oasis - Wildberry,$338.76
+628,Wine - Mondavi Coastal Private,$263.72
+629,Oysters - Smoked,$188.74
+630,Milk - 1%,$338.01
+631,Carbonated Water - Blackcherry,$356.11
+632,Bread - English Muffin,$463.62
+633,Lotus Leaves,$340.03
+634,Wine - Kwv Chenin Blanc South,$422.02
+635,Pork - Kidney,$385.47
+636,Apple - Granny Smith,$89.88
+637,"Basil - Primerba, Paste",$59.73
+638,"Roe - Lump Fish, Red",$170.16
+639,"Pasta - Penne, Rigate, Dry",$388.89
+640,Cocoa Butter,$93.12
+641,Lobster - Base,$444.79
+642,"Pork - Bacon, Sliced",$278.02
+643,Ice Cream - Turtles Stick Bar,$450.80
+644,"Water - Spring Water, 355 Ml",$109.44
+645,Foil - Round Foil,$80.12
+646,Gatorade - Lemon Lime,$193.12
+647,Leeks - Large,$251.05
+648,Flour - All Purpose,$77.65
+649,Soup - Cream Of Broccoli,$15.30
+650,"Pasta - Tortellini, Fresh",$403.96
+651,Miso Paste White,$287.76
+652,"Oil - Food, Lacquer Spray",$294.58
+653,Bacardi Breezer - Strawberry,$236.02
+654,Cake - Mini Potato Pancake,$221.50
+655,"Wine - White, Lindemans Bin 95",$221.79
+656,Lobak,$102.47
+657,Spinach - Packaged,$286.01
+658,Container - Clear 16 Oz,$35.08
+659,Monkfish Fresh - Skin Off,$178.38
+660,Parasol Pick Stir Stick,$246.73
+661,"Lettuce - Romaine, Heart",$326.67
+662,Arrowroot,$426.36
+663,"Seedlings - Mix, Organic",$311.30
+664,Curry Powder,$275.69
+665,"Wine - White, French Cross",$162.85
+666,Cheese - Stilton,$443.70
+667,Container - Clear 16 Oz,$493.82
+668,Tuna - Sushi Grade,$482.33
+669,Gatorade - Orange,$110.52
+670,Cinnamon - Ground,$268.60
+671,Sesame Seed,$135.48
+672,Pate - Cognac,$72.18
+673,"Croissant, Raw - Mini",$101.29
+674,Tea Leaves - Oolong,$223.88
+675,"Soup - Knorr, Classic Can. Chili",$267.16
+676,Cilantro / Coriander - Fresh,$139.81
+677,Cookie Dough - Chunky,$312.77
+678,Bread - Mini Hamburger Bun,$248.25
+679,Shrimp - Black Tiger 6 - 8,$130.19
+680,"Pork - Loin, Bone - In",$48.50
+681,"Lentils - Green, Dry",$231.06
+682,Pork - Bacon Cooked Slcd,$275.80
+683,Beef - Tenderloin Tails,$239.23
+684,Scallops - 20/30,$156.26
+685,Tea - Orange Pekoe,$406.68
+686,Gatorade - Orange,$438.64
+687,"Vinegar - Balsamic, White",$355.58
+688,Icecream Cone - Areo Chocolate,$167.73
+689,Pails With Lids,$182.24
+690,Bread - Pita,$250.59
+691,Persimmons,$15.01
+692,Broom - Angled,$29.02
+693,"Napkin - Beverge, White 2 - Ply",$156.81
+694,Chips - Doritos,$317.90
+695,Beef Wellington,$300.13
+696,"Rum - Spiced, Captain Morgan",$386.46
+697,"Yogurt - Banana, 175 Gr",$103.55
+698,Wine - Cabernet Sauvignon,$496.68
+699,Skirt - 24 Foot,$43.32
+700,Garam Marsala,$476.07
+701,"Nut - Walnut, Chopped",$282.42
+702,Coffee Caramel Biscotti,$203.79
+703,Fiddlehead - Frozen,$189.16
+704,"Salsify, Organic",$117.48
+705,Couscous,$494.87
+706,Bowl 12 Oz - Showcase 92012,$44.08
+707,Soup - Campbells Tomato Ravioli,$28.22
+708,Bread Ww Cluster,$139.31
+709,Beer - True North Lager,$272.73
+710,Table Cloth 81x81 Colour,$428.22
+711,Cheese - Provolone,$241.65
+712,"Bread - Dark Rye, Loaf",$409.57
+713,Bandage - Finger Cots,$200.49
+714,Juice - Lagoon Mango,$165.96
+715,Chocolate - Feathers,$483.33
+716,Chef Hat 25cm,$119.66
+717,Mace Ground,$75.12
+718,"Stock - Chicken, White",$297.29
+719,Spaghetti Squash,$20.58
+720,Sesame Seed,$387.48
+721,Evaporated Milk - Skim,$256.79
+722,Cookie Dough - Oatmeal Rasin,$64.44
+723,Wine - Maipo Valle Cabernet,$138.00
+724,Cornflakes,$238.69
+725,"Juice - Grape, White",$153.14
+726,Quinoa,$497.87
+727,Oil - Cooking Spray,$108.62
+728,"Mushroom - Oyster, Fresh",$223.35
+729,Beef Dry Aged Tenderloin Aaa,$484.33
+730,Scrubbie - Scotchbrite Hand Pad,$53.86
+731,Shichimi Togarashi Peppeers,$156.79
+732,Couscous,$214.61
+733,Beef - Short Loin,$494.20
+734,Sweet Pea Sprouts,$375.03
+735,Cleaner - Bleach,$97.13
+736,"Tomatoes - Vine Ripe, Red",$340.65
+737,Jello - Assorted,$130.54
+738,Appetizer - Shrimp Puff,$494.64
+739,Onions - Red,$196.25
+740,Browning Caramel Glace,$161.21
+741,Long Island Ice Tea,$232.73
+742,"Wine - Harrow Estates, Vidal",$223.80
+743,Sugar - Palm,$386.15
+744,Coffee - Decaffeinato Coffee,$215.31
+745,Bar Bran Honey Nut,$316.06
+746,"Jam - Raspberry,jar",$120.94
+747,Trueblue - Blueberry Cranberry,$220.86
+748,Wine - Chardonnay South,$344.64
+749,"Mushroom - Shitake, Dry",$340.79
+750,Venison - Striploin,$42.98
+751,Wine - Sake,$281.23
+752,"Wine - Red, Cabernet Merlot",$63.36
+753,Potatoes - Yukon Gold 5 Oz,$318.83
+754,"Syrup - Golden, Lyles",$10.82
+755,"Bread - Roll, Italian",$54.40
+756,Towel - Roll White,$362.96
+757,Honey - Liquid,$225.94
+758,"Club Soda - Schweppes, 355 Ml",$179.73
+759,Flour - Bread,$480.67
+760,Melon - Cantaloupe,$312.08
+761,Chutney Sauce - Mango,$477.01
+762,Wine - Pinot Noir Pond Haddock,$278.57
+763,Trueblue - Blueberry 12x473ml,$338.07
+764,Thermometer Digital,$470.12
+765,"Artichoke - Bottom, Canned",$363.56
+766,"Placemat - Scallop, White",$160.05
+767,Pate - Peppercorn,$464.29
+768,"Rum - Spiced, Captain Morgan",$99.62
+769,"Mustard - Dry, Powder",$132.99
+770,Foam Dinner Plate,$341.22
+771,Sesame Seed,$178.57
+772,Catfish - Fillets,$375.23
+773,Beef - Sushi Flat Iron Steak,$155.81
+774,Fudge - Cream Fudge,$170.16
+775,Beef - Top Butt Aaa,$160.60
+776,Chicken - White Meat With Tender,$93.09
+777,Coconut - Whole,$187.36
+778,Cup - 4oz Translucent,$447.53
+779,Straws - Cocktale,$178.11
+780,Cheese - Asiago,$253.90
+781,Juice - Lagoon Mango,$100.21
+782,Wine - Prosecco Valdobiaddene,$221.92
+783,Kaffir Lime Leaves,$434.16
+784,Kolrabi,$401.35
+785,Seabream Whole Farmed,$471.27
+786,Wine - Conde De Valdemar,$46.72
+787,"Iced Tea - Lemon, 460 Ml",$480.37
+788,Bread - White Mini Epi,$423.90
+789,Cheese - Gouda Smoked,$356.32
+790,Veal - Knuckle,$185.62
+791,Onion Powder,$25.67
+792,Pepper - Red Bell,$438.11
+793,"Turkey - Breast, Boneless Sk On",$356.15
+794,"Oregano - Dry, Rubbed",$203.05
+795,"Soup - Knorr, Veg / Beef",$344.69
+796,Potatoes - Mini White 3 Oz,$456.92
+797,"Apple - Delicious, Red",$259.37
+798,"Nut - Almond, Blanched, Ground",$346.86
+799,Mace,$477.45
+800,Chicken - Whole Roasting,$217.98
+801,"Wine - Red, Pelee Island Merlot",$155.72
+802,Bread Sour Rolls,$179.07
+803,Cheese - Cottage Cheese,$95.26
+804,Cleaner - Lime Away,$471.37
+805,"Beef - Tongue, Cooked",$203.30
+806,Chef Hat 20cm,$36.59
+807,Ice Cream - Life Savers,$239.02
+808,Beans - Wax,$273.78
+809,Cheese - Gouda Smoked,$108.73
+810,Dill Weed - Fresh,$108.80
+811,Pie Filling - Pumpkin,$149.78
+812,Compound - Raspberry,$361.14
+813,"Vodka - Lemon, Absolut",$437.07
+814,Celery Root,$328.42
+815,"Napkin - Dinner, White",$226.81
+816,Pastry - Banana Tea Loaf,$142.72
+817,Spice - Paprika,$164.82
+818,Salmon Steak - Cohoe 8 Oz,$211.19
+819,"Soup - Beef Conomme, Dry",$481.20
+820,Cheese - Pont Couvert,$127.58
+821,Shallots,$471.68
+822,Olives - Nicoise,$379.20
+823,Rice - Brown,$484.36
+824,Irish Cream - Butterscotch,$29.38
+825,Plastic Arrow Stir Stick,$270.44
+826,"Lemonade - Kiwi, 591 Ml",$451.43
+827,Lamb - Rack,$486.05
+828,"Hickory Smoke, Liquid",$72.25
+829,Oil - Peanut,$142.17
+830,"Bread - White, Unsliced",$45.73
+831,"Chicken - Base, Ultimate",$411.27
+832,Puree - Pear,$476.50
+833,Appetizer - Mango Chevre,$405.17
+834,Breakfast Quesadillas,$336.71
+835,Pastry - Banana Tea Loaf,$326.74
+836,Ecolab - Hobart Washarm End Cap,$113.68
+837,Beets - Golden,$209.76
+838,"Beef - Rouladin, Sliced",$324.54
+839,Kellogs All Bran Bars,$58.97
+840,Energy - Boo - Koo,$66.82
+841,Lamb - Shanks,$485.41
+842,Water - Aquafina Vitamin,$7.20
+843,English Muffin,$79.90
+844,Chips - Assorted,$9.23
+845,Wine - Pinot Grigio Collavini,$253.29
+846,"Bread - Pita, Mini",$371.92
+847,Soap - Mr.clean Floor Soap,$222.90
+848,"Fish - Atlantic Salmon, Cold",$274.21
+849,Beef Ground Medium,$343.90
+850,Maple Syrup,$170.41
+851,"Sauce - White, Mix",$478.49
+852,Wine - Conde De Valdemar,$249.52
+853,"Pepper - White, Ground",$412.15
+854,Ecolab - Lime - A - Way 4/4 L,$249.21
+855,Cod - Black Whole Fillet,$181.95
+856,Langers - Ruby Red Grapfruit,$226.71
+857,Cookie Double Choco,$276.17
+858,Muffin Mix - Carrot,$262.63
+859,Halibut - Fletches,$40.39
+860,Beef - Flank Steak,$493.23
+861,Scallops - 10/20,$121.51
+862,"Wine - Red, Mosaic Zweigelt",$330.74
+863,Lidsoupcont Rp12dn,$340.28
+864,"Oregano - Dry, Rubbed",$435.89
+865,Chinese Foods - Chicken,$299.03
+866,Tea - Orange Pekoe,$146.92
+867,Sprouts - Baby Pea Tendrils,$257.84
+868,Crackers - Graham,$374.49
+869,"Veal - Insides, Grains",$498.55
+870,Star Fruit,$192.96
+871,"Chocolate - Pistoles, Lactee, Milk",$321.43
+872,Flour - Rye,$246.32
+873,Tea - Vanilla Chai,$63.53
+874,Beer - Corona,$238.51
+875,Fudge - Chocolate Fudge,$349.00
+876,Bandage - Flexible Neon,$387.38
+877,"Turkey - Breast, Smoked",$43.61
+878,"Tabasco Sauce, 2 Oz",$299.69
+879,Soup - French Can Pea,$234.67
+880,Steamers White,$82.87
+881,Soup Campbells - Italian Wedding,$189.49
+882,Passion Fruit,$311.28
+883,Beans - Green,$39.69
+884,Beer - True North Strong Ale,$454.26
+885,Irish Cream - Butterscotch,$75.32
+886,Parsnip,$351.54
+887,"Veal - Insides, Grains",$82.09
+888,Turnip - Wax,$184.63
+889,Cheese Cheddar Processed,$34.74
+890,V8 - Vegetable Cocktail,$440.48
+891,Flour - Masa De Harina Mexican,$210.95
+892,Wiberg Super Cure,$27.09
+893,Oil - Cooking Spray,$447.51
+894,Bar Energy Chocchip,$35.09
+895,"Sauce - Soya, Dark",$336.12
+896,Sproutsmustard Cress,$73.16
+897,Glass Clear 7 Oz Xl,$293.12
+898,Pepper - Sorrano,$121.24
+899,Pie Shells 10,$323.53
+900,Cranberries - Frozen,$333.38
+901,"Pasta - Fusili, Dry",$270.44
+902,"Stock - Beef, Brown",$115.51
+903,"Trout - Rainbow, Frozen",$456.58
+904,Trout Rainbow Whole,$14.17
+905,Veal - Slab Bacon,$54.12
+906,Soy Protein,$244.39
+907,"Yogurt - Peach, 175 Gr",$74.12
+908,Muffin Chocolate Individual Wrap,$235.88
+909,Salt And Pepper Mix - White,$48.63
+910,Grenadillo,$77.51
+911,"Pasta - Fettuccine, Dry",$326.65
+912,Cheese - La Sauvagine,$181.34
+913,Muffin - Bran Ind Wrpd,$130.13
+914,Yucca,$219.78
+915,Spring Roll Veg Mini,$7.12
+916,"Oil - Olive, Extra Virgin",$66.94
+917,Pasta - Ravioli,$238.95
+918,Easy Off Oven Cleaner,$206.39
+919,Cake - Lemon Chiffon,$260.88
+920,"Nestea - Ice Tea, Diet",$199.04
+921,"Wine - White, Riesling, Henry Of",$346.50
+922,Barley - Pearl,$249.57
+923,Carbonated Water - Blackberry,$162.00
+924,"Turkey - Breast, Double",$377.49
+925,"Arctic Char - Fresh, Whole",$188.36
+926,Carrots - Jumbo,$284.94
+927,Clam Nectar,$220.06
+928,Radish - Pickled,$362.39
+929,Sobe - Tropical Energy,$221.90
+930,"Pork - Loin, Boneless",$447.55
+931,Langers - Mango Nectar,$114.98
+932,"Doilies - 7, Paper",$188.60
+933,Rice Wine - Aji Mirin,$200.72
+934,Hot Chocolate - Individual,$49.94
+935,"Chilli Paste, Sambal Oelek",$284.96
+936,Oil - Grapeseed Oil,$485.45
+937,Shrimp - Black Tiger 6 - 8,$347.09
+938,Oil - Margarine,$437.28
+939,Cheese - Stilton,$293.64
+940,"Pasta - Shells, Medium, Dry",$369.68
+941,Bread Country Roll,$308.50
+942,Soup Bowl Clear 8oz92008,$144.04
+943,"Napkin - Beverge, White 2 - Ply",$467.58
+944,Ostrich - Fan Fillet,$494.65
+945,Wine - Vineland Estate Semi - Dry,$479.40
+946,Pepper - Roasted Red,$15.53
+947,Lobster - Cooked,$240.35
+948,Nori Sea Weed - Gold Label,$414.44
+949,Lettuce - Red Leaf,$346.33
+950,Cookie Double Choco,$340.33
+951,Paper Towel Touchless,$62.38
+952,The Pop Shoppe - Black Cherry,$149.76
+953,"Veal - Brisket, Provimi, Bone - In",$410.33
+954,Longos - Chicken Curried,$494.26
+955,Tomatoes - Heirloom,$13.04
+956,"Wine - Red, Cabernet Merlot",$83.35
+957,Myers Planters Punch,$487.60
+958,Ostrich - Fan Fillet,$52.73
+959,Cake - Cheese Cake 9 Inch,$53.36
+960,Ecolab - Hand Soap Form Antibac,$92.60
+961,Mousse - Banana Chocolate,$478.45
+962,"Turkey - Breast, Double",$443.71
+963,Icecream Cone - Areo Chocolate,$307.03
+964,Cheese - Pied De Vents,$342.03
+965,Coffee - Cafe Moreno,$301.79
+966,Country Roll,$76.60
+967,Longos - Greek Salad,$311.38
+968,Pork Ham Prager,$430.22
+969,"Cheese - Havarti, Roasted Garlic",$141.46
+970,Muffin Batt - Choc Chk,$75.55
+971,Fib N9 - Prague Powder,$70.09
+972,Cardamon Ground,$275.77
+973,"Jam - Strawberry, 20 Ml Jar",$60.25
+974,Icecream - Dstk Strw Chseck,$443.07
+975,Beef Wellington,$174.52
+976,Venison - Denver Leg Boneless,$54.21
+977,Dc - Sakura Fu,$34.96
+978,Beef - Tenderloin,$82.76
+979,Arctic Char - Fillets,$69.15
+980,Ginger - Pickled,$362.94
+981,Nori Sea Weed,$161.06
+982,V8 - Berry Blend,$152.56
+983,Okra,$471.42
+984,Cheese Cloth No 100,$392.40
+985,Apples - Sliced / Wedge,$13.44
+986,Pastry - Raisin Muffin - Mini,$285.71
+987,"Tortillas - Flour, 10",$78.00
+988,Scotch - Queen Anne,$309.67
+989,Wine - Pinot Noir Pond Haddock,$470.84
+990,Cheese - Parmesan Cubes,$378.00
+991,"Cake Circle, Foil, Scallop",$210.46
+992,"Salmon - Smoked, Sliced",$482.16
+993,"Lemonade - Natural, 591 Ml",$17.23
+994,"Basil - Dry, Rubbed",$124.12
+995,"Beef - Bones, Cut - Up",$363.25
+996,"Asparagus - White, Fresh",$218.92
+997,Curry Powder,$395.50
+998,"Tart Shells - Sweet, 3",$346.09
+999,Wasabi Powder,$435.27
+1000,Chickensplit Half,$206.23
