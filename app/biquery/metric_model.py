@@ -4,10 +4,10 @@ from google.cloud.bigquery import Table
 
 
 class Aggregation(Enum):
-    SUM = "sum({coumn})"
-    AVG = "avg({column})"
-    COUNT = "count({column})"
-    COUNTD = "count(distinct {column})"
+    SUM = "SUM({column})"
+    AVG = "AVG({column})"
+    COUNT = "COUNT({column})"
+    COUNTD = "COUNT(distinct {column})"
 
 
 class FieldType(Enum):
