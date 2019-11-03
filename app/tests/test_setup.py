@@ -13,8 +13,8 @@ def test_version():
 def test_tables_correct(client: Client, bq_tables: List[Table]):
     counts = set()
     for table in bq_tables:
-        job = client.query(f"SELECT COUNT(*) FROM {Driver.escaped_table_id(table)}")
+        job = client.query(f"SELECT COUNT(*) FROM `{table.project}.{table.dataset_id}.{table.table_id}`")
         counts.add(Driver.get_scalar_result(job))
-    assert counts == {1000, 100, 6}
+    assert counts == {1000, 100, 37, 6}
 
 

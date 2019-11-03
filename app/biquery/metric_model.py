@@ -16,7 +16,8 @@ class FieldType(Enum):
 
 
 class Field:
-    def __init__(self, table: Table, column_name: str, /, *, field_type: FieldType = FieldType.METRIC):
+    def __init__(self, dataset: str, table: str, column_name: str, /, *, field_type: FieldType = FieldType.METRIC):
+        self.dataset = dataset
         self.table = table
         self.column_name = column_name
         self.field_type = field_type
@@ -28,3 +29,7 @@ class MetricModel:
         self.field = field
         self.agg = agg
 
+
+class Layout:
+    def __init__(self):
+        pass
